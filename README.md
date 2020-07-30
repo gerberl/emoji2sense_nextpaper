@@ -1,2 +1,2 @@
-# emoji2sense_lrec2020
-shared resources for emoji2sense paper submission to LREC 2020
+# Emoji2Sense (Next Paper)
+shared resources for emoji2sense next paper submission
